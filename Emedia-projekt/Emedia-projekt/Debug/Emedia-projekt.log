@@ -1,0 +1,25 @@
+﻿  main.cpp
+c:\users\kube\source\repos\emedia-projekt\emedia-projekt\main.cpp(79): warning C4244: "+=": konwersja z "double" do "int", możliwa utrata danych
+c:\users\kube\source\repos\emedia-projekt\emedia-projekt\main.cpp(88): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\kube\source\repos\emedia-projekt\emedia-projekt\main.cpp(122): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\kube\source\repos\emedia-projekt\emedia-projekt\main.cpp(145): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\kube\source\repos\emedia-projekt\emedia-projekt\main.cpp(190): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\kube\source\repos\emedia-projekt\emedia-projekt\main.cpp(247): warning C4244: "=": konwersja z "std::streamoff" do "size_t", możliwa utrata danych
+c:\users\kube\source\repos\emedia-projekt\emedia-projekt\main.cpp(256): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\kube\source\repos\emedia-projekt\emedia-projekt\main.cpp(311): warning C4244: "+=": konwersja z "double" do "int", możliwa utrata danych
+c:\users\kube\source\repos\emedia-projekt\emedia-projekt\main.cpp(323): warning C4244: "+=": konwersja z "double" do "int", możliwa utrata danych
+c:\users\kube\source\repos\emedia-projekt\emedia-projekt\main.cpp(325): warning C4244: "+=": konwersja z "double" do "int", możliwa utrata danych
+c:\users\kube\source\repos\emedia-projekt\emedia-projekt\main.cpp(337): warning C4244: "+=": konwersja z "double" do "int", możliwa utrata danych
+c:\users\kube\source\repos\emedia-projekt\emedia-projekt\main.cpp(339): warning C4244: "+=": konwersja z "double" do "int", możliwa utrata danych
+c:\users\kube\source\repos\emedia-projekt\emedia-projekt\main.cpp(347): warning C4244: "=": konwersja z "double" do "int", możliwa utrata danych
+c:\users\kube\source\repos\emedia-projekt\emedia-projekt\main.cpp(348): warning C4244: "+=": konwersja z "double" do "int", możliwa utrata danych
+c:\users\kube\source\repos\emedia-projekt\emedia-projekt\main.cpp(350): warning C4244: "=": konwersja z "double" do "int", możliwa utrata danych
+c:\users\kube\source\repos\emedia-projekt\emedia-projekt\main.cpp(351): warning C4244: "+=": konwersja z "double" do "int", możliwa utrata danych
+c:\users\kube\source\repos\emedia-projekt\emedia-projekt\main.cpp(353): warning C4244: "=": konwersja z "double" do "int", możliwa utrata danych
+c:\users\kube\source\repos\emedia-projekt\emedia-projekt\main.cpp(354): warning C4244: "+=": konwersja z "double" do "int", możliwa utrata danych
+c:\users\kube\source\repos\emedia-projekt\emedia-projekt\main.cpp(356): warning C4244: "=": konwersja z "double" do "int", możliwa utrata danych
+c:\users\kube\source\repos\emedia-projekt\emedia-projekt\main.cpp(357): warning C4244: "+=": konwersja z "double" do "int", możliwa utrata danych
+c:\users\kube\source\repos\emedia-projekt\emedia-projekt\main.cpp(359): warning C4244: "=": konwersja z "double" do "int", możliwa utrata danych
+c:\users\kube\source\repos\emedia-projekt\emedia-projekt\main.cpp(360): warning C4244: "+=": konwersja z "double" do "int", możliwa utrata danych
+c:\users\kube\source\repos\emedia-projekt\emedia-projekt\main.cpp(37): warning C4715: "getD”: niewszystkie ścieżki kodu zwracają wartość
+  Emedia-projekt.vcxproj -> C:\Users\Kube\source\repos\Emedia-projekt\Debug\Emedia-projekt.exe
